@@ -18,6 +18,34 @@
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/SatYug26">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/satyu.26/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:goyalsatyam8@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+<br><br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
+<!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
+![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
+
+
+<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
+
+
+
+## ⭐️ From [SatYu26](https://github.com/SatYu26)
 <!--
 **realshubhamraut/realshubhamraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
