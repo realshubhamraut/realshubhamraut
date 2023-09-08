@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a chat app**
  
- 🌱 I’m currently learning **Machine Learning, AI, **
+ 🌱 I’m currently learning **Machine Learning, AI**
 
  💬 Ask me about **Python, Data Analysis, Databases... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
