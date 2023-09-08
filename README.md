@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;" />
 </h1>
 
-<h2 align="left">I am passionate Data Analyst from India 🇮🇳.</h2>
+<h2 align="left">I am passionate Data Analyst from India 🇮🇳</h2>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
  💬  Ask me about **Python, Data Analysis, Databases... or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
 
- ⚡  Fun fact **AI is OIL of 21st Century.**
+ ⚡  Fun fact **AI is the new OIL of 21st Century.**
  
  </div>
  
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://shubhamraut.in" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/PortFolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
 
