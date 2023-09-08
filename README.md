@@ -1,3 +1,4 @@
+<img align="center" src="https://pin.it/370tHbw" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" />
 
 <h1 align="center">
