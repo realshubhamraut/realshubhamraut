@@ -5,19 +5,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;" />
 </h1>
 
-<h3 align="left">I am passionate Data Analyst from India 🇮🇳</h3>
+<h2 align="left">I am passionate Data Analyst from India 🇮🇳</h2>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a Logistic Regression.**
  
- 🌱 I’m currently learning **Machine Learning, AI**
+ 🌱 I’m currently learning **Machine Learning, AI.**
 
- 💬 Ask me about **Python, Data Analysis, Databases... or anything [here](https://github.com/realshubhamraut/realshubhamraut/issues)**
+ 💬 Ask me about **Python, Data Analysis, Databases... or anything. [here](https://github.com/realshubhamraut/realshubhamraut/issues)**
 
- ⚡ Fun fact **AI is OIL of 21st Century**
+ ⚡ Fun fact **AI is OIL of 21st Century.**
  
  </div>
  
@@ -36,7 +36,6 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,firebase,c,r" /><br>
     <img src="https://skillicons.dev/icons?i=r,mysql,vscode,figma,git,wordpress" />
