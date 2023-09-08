@@ -17,7 +17,7 @@
 
  💬  Ask me about **Python, Data Analysis, Databases... or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
 
- ⚡  Fun fact **AI is the new OIL of 21st Century.**
+ ⚡  Fun fact **"AI is the new OIL of 21st Century."**
  
  </div>
  
