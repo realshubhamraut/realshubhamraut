@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;" />
 </h1>
 
-<h3 align="center">I am passionate Data Analyst from India 🇮🇳</h3>
+<h3 align="left">I am passionate Data Analyst from India 🇮🇳</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **a chat app**
  
  🌱 I’m currently learning **Machine Learning, AI**
 
- 💬 Ask me about **Python, Data Analysis, Databases... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Python, Data Analysis, Databases... or anything [here](https://github.com/realshubhamraut/realshubhamraut/issues)**
 
  ⚡ Fun fact **AI is OIL of 21st Century**
  
