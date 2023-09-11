@@ -1,8 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Shubham+Raut;I'm+21+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="1200" height="500" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+21+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29" />
 </h1>
 
 <h2 align="left">I am passionate Data Analyst from India 🇮🇳</h2>
