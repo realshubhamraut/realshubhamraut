@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Shubham+Raut;I'm+21+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="1200" height="500" />
+<img src="assets/programmer.gif"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" />
 
 <h1 align="center">
@@ -60,9 +58,18 @@
 <hr/>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<div align=center>
-  <img width=390 height=200 src="https://streak-stats.demolab.com/?user=realshubhamraut&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=realshubhamraut&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+
 
 </div>
 
@@ -84,5 +91,5 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 </p>
-
 <hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
