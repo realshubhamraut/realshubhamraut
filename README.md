@@ -11,13 +11,13 @@
 
 <div align="left">
  
- 🔭  I’m currently working on **a Logistic Regression.**
+ 🔭   I’m currently working on **a Logistic Regression.**
  
- 🌱  I’m currently learning **Machine Learning, AI.**
+ 🌱   I’m currently learning **Machine Learning, AI.**
 
- 💬  Ask me about **Python, Data Analysis, Databases... or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
+ 💬   Ask me about **Python, Data Analysis, Databases... or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
 
- ⚡  Fun fact **"AI is the new OIL of 21st Century."**
+ ⚡   Fun fact **"AI is the new OIL of 21st Century."**
  
  </div>
  
@@ -49,7 +49,8 @@
          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank" />
          <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
          <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank" />
-         
+         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
+
          
          
 
