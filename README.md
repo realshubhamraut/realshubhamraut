@@ -57,7 +57,7 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align=center>
-  <img width=390 height=200 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height=200 src="https://streak-stats.demolab.com/?user=realshubhamraut&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=realshubhamraut&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 </div>
