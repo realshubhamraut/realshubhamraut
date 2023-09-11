@@ -1,4 +1,4 @@
-![Pixel Art.](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="1200" height="500" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" />
 
 <h1 align="center">
@@ -49,8 +49,6 @@
          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank" />
          <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
          <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank" />
-         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
-
          
          
 
