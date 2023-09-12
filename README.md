@@ -8,7 +8,7 @@
 <h3 align="center">Uncovering Insights Through Magic of Data: I am Analyst and Data Scientist from India 🇮🇳 </h3>
 </h1>
 <hr>
-  <img align="right" alt="dataanalyst" width="400" height="240" src="https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
+  <img align="right" alt="dataanalyst" width="400" height="230" src="https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
 <br>
 <div align="left">
 
@@ -22,8 +22,7 @@
 
  </div>
 <br>
- <br>
- <br>
+<br>
  
 <div align="center"> 
   <a href="mailto:contactshubhamraut@gmail.com">
