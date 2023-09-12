@@ -38,8 +38,8 @@
 
  <hr/>
  
-<h2 align="center">⚒️  I can work with  ⚒️</h2>
-
+<h1 align="center">🤔 👨‍💻ㅤI can work withㅤ👨‍💻 💬</h1>
+ 
 
 ### Languagues:
 ![JavaScript](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
