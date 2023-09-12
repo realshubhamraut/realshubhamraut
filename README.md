@@ -5,18 +5,25 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+21+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29"/>
-<h2 align="left">I am passionate Analyst and Data Scientist from India 🇮🇳 </h2>
+<h3 align="center">Uncovering Insights Through Magic of Data: I am Analyst and Data Scientist from India 🇮🇳 </h3>
+</h1>
+<hr>
+  <img align="right" alt="dataanalyst" width="400" height="240" src="https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
+<br>
 <div align="left">
- 
- 🔭   I’m currently working on **a Logistic Regression.**
- 
- 🌱   I’m currently learning **Machine Learning, AI.**
 
- 💬   Ask me about **Python, Data Analysis, Databases... or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
+- 🔭 I’m currently working on **Logistic Regression**
 
- ⚡   Fun fact **"AI is the new OIL of 21st Century."**
- 
+- 🌱 I’m currently learning **Machine Learning, Power BI, R**
+
+- 💬 Ask me about **Python, Data Analysis, Databases... or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
+
+-  ⚡ Fun fact **"AI is the new OIL of 21st Century."**
+
  </div>
+<br>
+ <br>
+ <br>
  
 <div align="center"> 
   <a href="mailto:contactshubhamraut@gmail.com">
