@@ -109,7 +109,7 @@
 
 
 <div align="center">
-  <h2>🐍 Watch Python Eat my Contributions 🐍</h2>
+  <h2>🐍 Python is Eating my Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg" />
 </div>
 <hr/>
