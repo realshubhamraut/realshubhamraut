@@ -91,8 +91,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/realshubhamraut">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&theme=react&show_icons=true&rank_icon=github&border_radius=10" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&theme=react&show_icons=true&rank_icon=github&border_radius=10" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact" />
 </a>
 <br>
 <hr/>
