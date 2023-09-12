@@ -5,7 +5,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+21+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29"/>
-<h2 align="left">I am passionate Data Analyst from India 🇮🇳 </h2>
+<h2 align="left">I am passionate Analyst and Data Scientist from India 🇮🇳 </h2>
 <div align="left">
  
  🔭   I’m currently working on **a Logistic Regression.**
