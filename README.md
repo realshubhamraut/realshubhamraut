@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Power BI, R**
 
-- 💬 Ask me about **Python, Data Analysis, Databases... or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
+- 💬 Ask me about **Python, Databases...or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
 
 -  ⚡ Fun fact **"AI is the new OIL of 21st Century."**
 
