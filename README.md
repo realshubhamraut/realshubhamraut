@@ -5,7 +5,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+21+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29"/>
-<h3 align="center">Uncovering Insights Through Magic of Data: I am Analyst and Data Scientist from India 🇮🇳 </h3>
+<h2 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" height="28px"> Uncovering Insights Through Magic of Data: I am Analyst and Data Scientist from India <img src="https://media.tenor.com/d39zhmpSHT4AAAAi/umm.gif" height="23px"> </h2>
 </h1>
 <hr>
   <img align="right" alt="dataanalyst" width="400" height="220" src="https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
@@ -38,7 +38,7 @@
 
  <hr/>
  
-<h1 align="center">🤔 👨‍💻ㅤI can work withㅤ👨‍💻 💬</h1>
+<h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> I can work with <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="32px"> </h1>
  
 
 ### Languagues: 👨‍💻
@@ -90,7 +90,7 @@
 
 <br>
 <hr/>
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&theme=dracula&row=1&bg_color=green&&margin-w=15&margin-h=15" />
@@ -108,7 +108,7 @@
 
 
 <div align="center">
-  <h2>🐍 Python is Eating my Contributions 🐍</h2>
+  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px">ㅤPython is Eating my Contributionsㅤ<img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"></h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg" />
 </div>
 <hr/>
