@@ -49,7 +49,7 @@
 
 
 ### Libraries: 📚
-![numpy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=white)&nbsp;
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=white&)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=plastic&logo=plotly&logoColor=white)&nbsp;
 ![Sci-Kit](https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)&nbsp;
@@ -58,8 +58,6 @@
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)&nbsp;
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)&nbsp;
 <img height="20px" width="100px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib Logo" width="90px">
-
-
 
 ### Databases: 💿
 ![sql](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
