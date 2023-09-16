@@ -26,13 +26,13 @@
  
 <div align="center"> 
   <a href="mailto:contactshubhamraut@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=plastic&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://shubhamraut.in" target="_blank">
-     <img src="https://img.shields.io/badge/PortFolio-Website-green?style=plastic&logo=About.me&logoColor=green" target="_blank" />
+     <img src="https://img.shields.io/badge/PortFolio-Website-green?style=for-the-badge&logo=About.me&logoColor=green" target="_blank" />
   </a>
 </div>
 
@@ -42,48 +42,48 @@
  
 
 ### Languagues: 👨‍💻
-![Python](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=green&)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=green&)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 
 
 
 ### Libraries: 📚
-![numpy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=white&)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=plastic&logo=plotly&logoColor=white)&nbsp;
-![Sci-Kit](https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)&nbsp;
-![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=plastic&logo=SciPy&logoColor=white)&nbsp;
-![keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white)&nbsp;
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)&nbsp;
-![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)&nbsp;
-<img height="20px" width="100px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib Logo" width="90px">
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)&nbsp;
+![Sci-Kit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white)&nbsp;
+![keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)&nbsp;
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
+![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;
+<img height="20px" width="90px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib Logo" width="90px">
 
 ### Databases: 💿
-![sql](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
-![psql](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)&nbsp;
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)&nbsp;
+![sql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
+![psql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
 
 ### Tools: ⚙️
-![sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)&nbsp;
-![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)&nbsp;
-![notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)&nbsp;
-![ppt](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)&nbsp;
-![github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)&nbsp;
-![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white)&nbsp;
-![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white)&nbsp;
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white)&nbsp;
-![wp](https://img.shields.io/badge/Wordpress-21759B?style=plastic&logo=wordpress&logoColor=white)&nbsp;
-![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=plastic&logo=google%20analytics&logoColor=white)&nbsp;
+![sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)&nbsp;
+![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
+![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)&nbsp;
+![ppt](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)&nbsp;
+![git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
+![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
+![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
+![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)&nbsp;
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
+![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
+![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
 
 
 ### Cloud Platforms: ☁
-![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)&nbsp;
-![azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=plastic&logo=azure-devops&logoColor=white)&nbsp;
-![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)&nbsp;
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp;
+![azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)&nbsp;
+![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 
 
 
