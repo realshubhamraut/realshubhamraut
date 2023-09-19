@@ -82,6 +82,8 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 ![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
 ![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
+<img height="18px" width="90px" src="assets/Keynote-logo.png" alt="Matplotlib Logo" width="95px">
+
 
 
 ### Cloud Platforms: ☁
