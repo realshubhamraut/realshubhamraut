@@ -75,14 +75,16 @@
 ![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)&nbsp;
 ![ppt](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
-![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
+![github](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)&nbsp;
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 ![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
 ![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
-<img height="18px" width="90px" src="assets/Keynote-logo.png" alt="Matplotlib Logo" width="95px">
+<img height="18px" width="90px" src="assets/keynote_logo.png" alt="keynote-logo" width="95px">
+<img height="18px" width="90px" src="assets/fcpx_logo.png" alt="keynote-logo" width="95px">
+
 
 
 
