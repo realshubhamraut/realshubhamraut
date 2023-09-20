@@ -72,10 +72,10 @@
 ### Tools: ⚙️
 ![sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)&nbsp;
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
-![notion](https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=black)&nbsp;
+![notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)&nbsp;
 ![ppt](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
-![github](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)&nbsp;
+![github](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)&nbsp;
