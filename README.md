@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **"AI is the new OIL of 21st Century."**
 
-- I proficiently use MacOS, Windows and Linux, with a MacBook Air as my current device.
+- I proficiently use MacOS, Windows and Linux, with a **MacBook Air** as my primary computing device.
 
 
 
