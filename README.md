@@ -82,8 +82,8 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 ![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
 ![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
-<img height="18px" width="90px" src="assets/keynote_logo.png" alt="keynote-logo" width="95px">
-<img height="18px" width="90px" src="assets/fcpx_logo.png" alt="keynote-logo" width="95px">
+<img height="18px" width="90px" src="assets/apple_keynote_logo.png" alt="keynote-logo" width="95px">
+<img height="18px" width="90px" src="assets/apple_fcpx_logo.png" alt="fcpx-logo" width="95px">
 
 
 
