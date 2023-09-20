@@ -8,24 +8,23 @@
 <h3 align="center"> <img src="assets/graph.gif" height="28px"> Uncovering Insights Through Magic of Data: I am Analyst and Data Scientist from India <img src="https://media.tenor.com/d39zhmpSHT4AAAAi/umm.gif" height="23px"> </h3>
 </h1>
 <hr>
-  <img align="right" alt="dataanalyst" width="320" height="220" src="https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
+  <img align="right" alt="dataanalyst" width="430" height="270" src="https://camo.githubusercontent.com/3c8d1a244e65ee2ce32df43ab7fb35a782e059f8a721b76fd877a50472a9c4f6/68747470733a2f2f7777772e736179796164696d72616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
 <br>
 <div align="left">
-
+    
 - 🔭 I’m currently working on **Logistic Regression**
 
 - 🌱 I’m currently learning **Machine Learning, Power BI, R**
 
 - 💬 Ask me about **Python, Databases...or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
 
+- 💻 I proficiently use MacOS, Windows and LinuxOS Systems.
+  
+- 👨🏻‍💻 with **MacBook Air** as my primary computing device.
+
 - ⚡ Fun fact **"AI is the new OIL of 21st Century."**
 
-- I proficiently use MacOS, Windows and Linux, with a **MacBook Air** as my primary computing device.
-
-
-
  </div>
-<br>
 <br>
  
 <div align="center"> 
