@@ -83,7 +83,7 @@
 ![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
 ![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
 <img height="18px" width="90px" src="assets/keynote-logo.png" alt="keynote-logo" width="95px">
-<img height="18px" width="90px" src="assets/fcpx-logo.png" alt="fcpx-logo" width="95px">
+<img height="18px" width="90px" src="assets/fcpx-apple-logo.png" alt="fcpx-logo" width="95px">
 
 
 
