@@ -24,7 +24,7 @@
 
 - ⚡ Random Thought - **"AI is the new OIL of 21st Century."**
 
-- ⚡ Fun fact - My Typing Speed exceeds **120 WPM**. 🏎️
+- ⚡ Fun fact - My Typing Speed exceeds **120 WPM**.
  </div>
 <br>
  
