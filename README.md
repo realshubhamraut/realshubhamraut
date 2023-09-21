@@ -61,7 +61,7 @@
 ![keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)&nbsp;
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;
-<img height="20px" width="90px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib Logo" width="90px">
+<img height="20px" width="90px" src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib Logo" width="90px">
 
 ### Databases: 💿
 ![sql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
