@@ -115,7 +115,6 @@
 </div>
 
 
-
 <div align="center">
   <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px">ㅤPython is Eating my Contributionsㅤ<img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"></h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg" />
