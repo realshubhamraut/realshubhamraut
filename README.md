@@ -87,7 +87,6 @@
 
 
 
-
 ### Cloud Platforms: ☁
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp;
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)&nbsp;
