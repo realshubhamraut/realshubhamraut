@@ -43,14 +43,11 @@
  <hr/>
  
 <h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> I can work with <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="32px"> </h1>
- 
 
-### Languagues: 👨‍💻
+### Languages: 👨‍💻
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=green&)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-
-
 
 ### Libraries: 📚
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&)&nbsp;
@@ -85,17 +82,10 @@
 <img height="18px" width="90px" src="assets/keynote-logo.png" alt="keynote-logo" width="95px">
 <img height="18px" width="90px" src="assets/fcpx-apple-logo.png" alt="fcpx-logo" width="95px">
 
-
-
-
 ### Cloud Platforms: ☁
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp;
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)&nbsp;
 ![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-
-
-
-
 
 <br>
 <hr/>
@@ -113,7 +103,6 @@
 <hr/>
 </p>
 </div>
-
 
 <div align="center">
   <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px">ㅤPython is Eating my Contributionsㅤ<img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"></h2>
