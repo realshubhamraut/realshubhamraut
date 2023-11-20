@@ -92,7 +92,7 @@
 <h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&theme=dracula&stars=false&row=1&bg_color=green&margin-w=8&margin-h=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&title=Commits,Issues,PullRequest,Repositories,Experience&theme=dracula&stars=false&row=1&bg_color=green&margin-w=30&margin-h=8&column=-1" />
 </p>
 <p align="center">
 <a href="https://github.com/realshubhamraut">
