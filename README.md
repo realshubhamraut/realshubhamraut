@@ -92,11 +92,11 @@
 <h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&theme=dracula&row=1&bg_color=green&&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&theme=dracula&stars=false&row=1&bg_color=green&margin-w=8&margin-h=8&column=6" />
 </p>
 <p align="center">
 <a href="https://github.com/realshubhamraut">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&theme=react&show_icons=true&rank_icon=github&border_radius=10" />
+  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1" />
 </a>
 <br>
