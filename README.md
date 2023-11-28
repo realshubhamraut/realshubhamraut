@@ -148,11 +148,12 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 ![git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 ![github](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
+![looker](https://img.shields.io/badge/Google%20Looker-654FF0?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
 ![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)&nbsp;
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)&nbsp;
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 ![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
-![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
 <img height="18px" width="90px" src="assets/keynote-logo.png" alt="keynote-logo" width="95px">
 <img height="18px" width="90px" src="assets/fcpx-apple-logo.png" alt="fcpx-logo" width="95px">
 
