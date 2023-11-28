@@ -56,12 +56,12 @@
 <div>
 <a
 target="_blank"
-href="https://github.com/realshubhamraut/realshubhamraut"
+href="https://github.com/realshubhamraut/Twitter-Sentiment-Analysis"
 >
 <img
-height="120" width= "335"
-alt="audiophile repo"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
+height="120" width= "300"
+alt="Notes"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Twitter-Sentiment-Analysis"
 />
 </a>
 <a
@@ -69,7 +69,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
-height="120" width= "333"
+height="120" width= "300"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
 />
@@ -79,9 +79,9 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
-height="120" width= "335"
+height="120" width= "300"
 alt="rata-call repo"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut&theme=cobalt&stars=false&row=1&bg_color=green&margin-w=30&margin-h=8&column=-1" />
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut" />
 </a>
 </div>
  <hr/>
