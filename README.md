@@ -60,8 +60,37 @@ href="https://github.com/realshubhamraut/Twitter-Sentiment-Analysis"
 >
 <img
 width= "420"
-alt="Notes"
+alt="Twitter"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Twitter-Sentiment-Analysis"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/realshubhamraut/TaskMaster-TODO"
+>
+<img
+width= "420"
+alt="TODO"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=TaskMaster-TODO"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/realshubhamraut/Titanic-Survival-Analysis"
+>
+<img
+width= "420"
+alt="Titanic-Survival-Analysis"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Titanic-Survival-Analysis" />
+</a>
+<a
+target="_blank"
+href="https://github.com/realshubhamraut/Stock-Prediction-Analysis"
+>
+<img
+width= "420"
+alt="Stock-Prediction-Analysis"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Stock-Prediction-Analysis"
 />
 </a>
 <a
@@ -76,41 +105,12 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 </a>
 <a
 target="_blank"
-href="https://github.com/realshubhamraut/realshubhamraut"
+href="https://github.com/realshubhamraut/PG-Finder"
 >
 <img
 width= "420"
-alt="rata-call repo"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut" />
-</a>
-<a
-target="_blank"
-href="https://github.com/realshubhamraut/Twitter-Sentiment-Analysis"
->
-<img
-width= "420"
-alt="Notes"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Twitter-Sentiment-Analysis"
-/>
-</a>
-<a
-target="_blank"
-href="https://github.com/realshubhamraut/realshubhamraut"
->
-<img
-width= "420"
-alt="rata-call repo"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
-/>
-</a>
-<a
-target="_blank"
-href="https://github.com/realshubhamraut/realshubhamraut"
->
-<img
-width= "420"
-alt="rata-call repo"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut" />
+alt="PG-Finder"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=PG-Finder" />
 </a>
 </div>
 
