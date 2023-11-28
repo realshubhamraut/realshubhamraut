@@ -30,6 +30,9 @@
 <br>
  
 <div align="center"> 
+    <a href="mailto:contactshubhamraut@gmail.com">
+<h1 align="center"> <img src="assets/wave.gif" height="32px"> 
+  </a>
   <a href="mailto:contactshubhamraut@gmail.com">
     <img src="https://img.shields.io/badge/RESUME-FF0000?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
@@ -41,9 +44,46 @@
   </a>
     <a href="mailto:contactshubhamraut@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
+    <img src="assets/sunglasses.gif" height="32px" />
   </a>
 </div>
+ <hr/>
+ 
+<h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> My Recent Projects - Case Studies <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> </h1>
 
+<div>
+<a
+target="_blank"
+href="https://github.com/awwmicky/audiophile"
+>
+<img
+height="120" width= "335"
+alt="audiophile repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/awwmicky/rata-call"
+>
+<img
+height="120" width= "333"
+alt="rata-call repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/awwmicky/rata-call"
+>
+<img
+height="120" width= "335"
+alt="rata-call repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut&theme=cobalt&stars=false&row=1&bg_color=green&margin-w=30&margin-h=8&column=-1" />
+</a>
+</div>
  <hr/>
  
 <h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> I can work with <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="32px"> </h1>
