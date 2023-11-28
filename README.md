@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
-
-<img src="assets/git1-banner.gif#gh-lite-mode-only"/>
+<img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/banner-lightmode.gif#gh-light-mode-only"/>
+<img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/banner-darkmode.gif#gh-dark-mode-only"/>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" />
 <img align="right" src="https://wakatime.com/badge/user/018ba0c8-314e-4b71-80c9-d9a2c59ef322.svg" />
 
