@@ -59,7 +59,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/Twitter-Sentiment-Analysis"
 >
 <img
-height="120" width= "300"
+height="120" width= "280"
 alt="Notes"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Twitter-Sentiment-Analysis"
 />
@@ -69,7 +69,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
-height="120" width= "300"
+height="120" width= "280"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
 />
@@ -79,7 +79,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
-height="120" width= "300"
+height="120" width= "280"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut" />
 </a>
