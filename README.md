@@ -95,12 +95,12 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 </a>
 <a
 target="_blank"
-href="https://github.com/realshubhamraut/realshubhamraut"
+href="https://github.com/realshubhamraut/TaskMaster-TODO"
 >
 <img
 width= "420"
-alt="rata-call repo"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
+alt="TaskMaster-TODO"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=TaskMaster-TODO"
 />
 </a>
 <a
