@@ -59,6 +59,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/Twitter-Sentiment-Analysis"
 >
 <img
+width= "420"
 alt="Notes"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Twitter-Sentiment-Analysis"
 />
@@ -68,6 +69,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
+width= "420"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
 />
@@ -77,6 +79,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
+width= "420"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut" />
 </a>
@@ -85,6 +88,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/Twitter-Sentiment-Analysis"
 >
 <img
+width= "420"
 alt="Notes"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Twitter-Sentiment-Analysis"
 />
@@ -94,6 +98,7 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
+width= "420"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut"
 />
@@ -103,10 +108,12 @@ target="_blank"
 href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
+width= "420"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=realshubhamraut" />
 </a>
 </div>
+
  <hr/>
  
 <h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> I can work with <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="32px"> </h1>
