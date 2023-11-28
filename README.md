@@ -56,7 +56,7 @@
 <div>
 <a
 target="_blank"
-href="https://github.com/awwmicky/audiophile"
+href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
 height="120" width= "335"
@@ -66,7 +66,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 </a>
 <a
 target="_blank"
-href="https://github.com/awwmicky/rata-call"
+href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
 height="120" width= "333"
@@ -76,7 +76,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 </a>
 <a
 target="_blank"
-href="https://github.com/awwmicky/rata-call"
+href="https://github.com/realshubhamraut/realshubhamraut"
 >
 <img
 height="120" width= "335"
