@@ -22,7 +22,7 @@
 - 💻 I proficiently use MacOS, Windows and LinuxOS Systems.
   
 - 👨🏻‍💻 with **MacBook Air** as my primary computing device.
-
+    
 - ⚡ Random Thought - **"AI is the new OIL of 21st Century."**
 
 - 📌 Fun Fact - My Typing Speed exceeds **120 WPM**.
@@ -31,13 +31,16 @@
  
 <div align="center"> 
   <a href="mailto:contactshubhamraut@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/RESUME-FF0000?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+    <a href="https://shubhamraut.in" target="_blank">
+     <img src="https://img.shields.io/badge/PortFolio-Website-green?style=for-the-badge&logo=About.me&logoColor=green" target="_blank" />
   </a>
   <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://shubhamraut.in" target="_blank">
-     <img src="https://img.shields.io/badge/PortFolio-Website-green?style=for-the-badge&logo=About.me&logoColor=green" target="_blank" />
+    <a href="mailto:contactshubhamraut@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
 
