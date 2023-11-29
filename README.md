@@ -198,6 +198,5 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-</p>https://www.grammarly.com/plans?utm_medium=internal&utm_source=ipm&utm_campaign=2023-06-06_GC-LCM-FRE-ALL-CUST-OTH-UPS_power-writer-free-trial_1X
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
 <hr>
