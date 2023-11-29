@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 <img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/banner-lightmode.gif#gh-light-mode-only"/>
 <img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/banner-darkmode.gif#gh-dark-mode-only"/>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" />
-<img align="right" src="https://wakatime.com/badge/user/018ba0c8-314e-4b71-80c9-d9a2c59ef322.svg" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" ]/>
+<img align="right" src="https://wakatime.com/badge/user/018ba0c8-314e-4b71-80c9-d9a2c59ef322.svg"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+21+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29"/>
@@ -198,6 +198,6 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-</p>
+</p>https://www.grammarly.com/plans?utm_medium=internal&utm_source=ipm&utm_campaign=2023-06-06_GC-LCM-FRE-ALL-CUST-OTH-UPS_power-writer-free-trial_1X
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
 <hr>
