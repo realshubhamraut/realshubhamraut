@@ -170,10 +170,8 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
   <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&title=Commits,Issues,PullRequest,Repositories,Experience&theme=dracula&stars=false&row=1&bg_color=green&margin-w=30&margin-h=8&column=-1" />
 </p>
 <p align="center">
-<a href="https://github.com/realshubhamraut">
   <img height="148em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1" />
-</a>
 <br>
 <hr/>
 </p>
