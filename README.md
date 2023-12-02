@@ -161,24 +161,25 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp;
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)&nbsp;
 ![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-
 <hr/>
 <h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&title=Commits,Issues,PullRequest,Repositories,Experience&theme=dracula&stars=false&row=1&bg_color=green&margin-w=30&margin-h=8&column=-1" />
+</p>
+
 <p align="center">
   <img height="148em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1" />
+</p>
 
 <hr/>
 
 <div align="center">
-  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px">ㅤPython is Eating my Contributionsㅤ<img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"></h2>
+  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px"> Python is Eating my Contributions <img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"></h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg" />
 </div>
 <hr/>
-<div>
 <h3 align="left">Connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 </h3>
 <p align="left">
