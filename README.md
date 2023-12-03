@@ -206,7 +206,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.gif"
+    srcset="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
