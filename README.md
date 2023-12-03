@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 <img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/banner-lightmode.gif#gh-light-mode-only"/>
 <img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/banner-darkmode.gif#gh-dark-mode-only"/>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut" ]/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut"/>
 <img align="right" src="https://wakatime.com/badge/user/018ba0c8-314e-4b71-80c9-d9a2c59ef322.svg"/>
 
 <h1 align="center">
@@ -39,14 +39,18 @@
     <a href="https://shubhamraut.in" target="_blank">
      <img src="https://img.shields.io/badge/PortFolio-Website-green?style=for-the-badge&logo=About.me&logoColor=green" target="_blank" />
   </a>
-  <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
+    <a href="https://huggingface.co/shubhamraut">
+    <img height="28px" width="170px" src="assets/hugging-face.png" alt="hugging-face">
+    </a>
+     <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="mailto:contactshubhamraut@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
+    <a target="_blank">
     <img src="assets/sunglasses.gif" height="32px" />
+  </a>
   </a>
 </div>
  <hr/>
