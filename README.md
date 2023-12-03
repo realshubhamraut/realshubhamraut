@@ -40,7 +40,7 @@
      <img src="https://img.shields.io/badge/PortFolio-Website-green?style=for-the-badge&logo=About.me&logoColor=green" target="_blank" />
   </a>
     <a href="https://huggingface.co/shubhamraut">
-    <img height="28px" width="170px" src="assets/hugging-face.png" alt="hugging-face">
+    <img height="28px" width="180px" src="assets/hugging-face.png" alt="hugging-face">
     </a>
      <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
