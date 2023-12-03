@@ -180,8 +180,6 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
     alt="github contribution grid snake animation"
      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </picture>
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -196,14 +194,10 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
   />
 </picture>
-
-
-
-
-    
 </p>
-
 <hr/>
+<div align="center">
+  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px"> Python is Eating my Contributions <img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"></h2>
 <p align="center">
 <picture>
   <source
