@@ -174,11 +174,22 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 </p>
 
 <hr/>
-
-<div align="center">
-  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px"> Python is Eating my Contributions <img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"></h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.gif" />
-</div>
+<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</p>
 <hr/>
 <h3 align="left">Connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 </h3>
