@@ -165,12 +165,42 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&title=Commits,Issues,PullRequest,Repositories,Experience&theme=dracula&stars=false&row=1&bg_color=green&margin-w=30&margin-h=8&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&title=Commits,Issues,PullRequest,Repositories,Experience&theme=dracula&stars=false&row=1&bg_color=green&margin-w=23&margin-h=8&column=-1" />
 </p>
 
 <p align="center">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <source
+    media="(prefers-color-scheme: light)"
+     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img
+    alt="github contribution grid snake animation"
+     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=realshubhamraut&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</picture>
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
+  />
+</picture>
+
+
+
+
+    
 </p>
 
 <hr/>
@@ -178,15 +208,15 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.gif"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.gif"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/realshubhamraut/realshubhamraut/output/github-contribution-grid-snake.gif"
   />
 </picture>
 </p>
