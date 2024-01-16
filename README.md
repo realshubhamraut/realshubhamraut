@@ -9,7 +9,7 @@
 <h3 align="center"> <img src="assets/graph.gif" height="28px"> Uncovering Insights Through Magic of Data: I am Analyst and Data Scientist from India <img src="https://media.tenor.com/d39zhmpSHT4AAAAi/umm.gif" height="23px"> </h3>
 </h1>
 <hr>
-  <img align="right" alt="dataanalyst" width="395" height="280" src="assets/data-analyst.png">
+  <img align="right" alt="dataanalyst" width="395" height="280" src="assets/data-analyst.gif">
 <br>
 <div align="left">
     
