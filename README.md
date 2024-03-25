@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
-<img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/banner.gif#gh-light-mode-only"/>
 <img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/github-darkmode.gif#gh-dark-mode-only"/>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut"/>
 <img align="right" src="https://wakatime.com/badge/user/018ba0c8-314e-4b71-80c9-d9a2c59ef322.svg"/>
@@ -9,23 +8,17 @@
 <h3 align="center"> <img src="assets/graph.gif" height="28px"> Uncovering Insights Through Magic of Data: I am Analyst and Data Scientist from India <img src="https://media.tenor.com/d39zhmpSHT4AAAAi/umm.gif" height="23px"> </h3>
 </h1>
 <hr>
-  <img align="right" alt="dataanalyst" width="395" height="280" src="assets/report-boy.gif">
+  <img align="right" alt="dataanalyst" width="305" height="220" src="assets/report-boy.gif">
 <br>
 <div align="left">
     
-- 🔭 I’m currently working on **Logistic Regression**
-
-- 🌱 I’m currently learning **Machine Learning, Power BI, R**
+- 🔭 I’m currently working on **Data Analysis and Engineering Projects**
 
 - 💬 Ask me about **Python, Databases...or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
-
-- 💻 I proficiently use MacOS, Windows and LinuxOS Systems.
-  
-- 👨🏻‍💻 with **MacBook Air** as my primary computing device.
-    
+      
 - ⚡ Random Thought - **"AI is the new OIL of 21st Century."**
 
-- 📌 Fun Fact - My Typing Speed exceeds **120 WPM**.
+- 📌 Fun Fact - My Typing Speed exceeds **100 WPM**.
  </div>
 <br>
  
@@ -122,26 +115,13 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
  
 <h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> I can work with <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="32px"> </h1>
 
-### Languages: 👨‍💻
+### Languages, Databases, Libraries: 📗
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=green&)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-
-### Libraries: 📚
+![sql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)&nbsp;
-![Sci-Kit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
-![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white)&nbsp;
-![keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)&nbsp;
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
-![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;
 <img height="20px" width="90px" src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib Logo" width="90px">
 
-### Databases: 💿
-![sql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
-![psql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
 
 ### Tools: ⚙️
@@ -160,11 +140,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 ![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
 <img height="18px" width="90px" src="assets/keynote-logo.png" alt="keynote-logo" width="95px">
 <img height="18px" width="90px" src="assets/fcpx-apple-logo.png" alt="fcpx-logo" width="95px">
-
-### Cloud Platforms: ☁
-![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp;
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)&nbsp;
-![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 <hr/>
 <h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
 
