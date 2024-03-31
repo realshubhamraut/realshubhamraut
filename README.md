@@ -1,12 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
-<img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/github-darkmode.gif#gh-dark-mode-only"/>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=realshubhamraut.realshubhamraut"/>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="27%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="27%" style="display:inline;">
+<br>
 
+<p align="center">
+  <h1 align="center">✩&emsp;Welcome!&emsp;✩</h1>
+<div align="center">
+
+<img id="preview" src="https://komarev.com/ghpvc/?username=realshubhamraut&color=brightgreen"> [![Linkedin: shubhamraut](https://img.shields.io/badge/-Let'sConnect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/contactshubhamraut/)](https://www.linkedin.com/in/contactshubhamraut/) [![GitHub Shubham](https://img.shields.io/github/followers/realshubhamraut?label=follow&style=social)](https://github.com/realshubhamraut)
+
+
+
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=NadavIs56&count_private=true&show_icons=true&include_all_commits=true) -->
+<!-- <img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/github-darkmode.gif#gh-dark-mode-only"/> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+22+years+old;I'm+from+India+🇮🇳;I+Graduated+in+Maths+and+Physics;Pursuing+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29"/>
-<h3 align="center"> <img src="assets/graph.gif" height="28px"> Uncovering Insights Through Magic of Data: I am Analyst and Data Enthusiast from India <img src="https://media.tenor.com/d39zhmpSHT4AAAAi/umm.gif" height="23px"> </h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+22+years+old;Uncovering+Insights+Through+Magic+of+Data;I+am+an+Analyst+and+Data+Enthusiast;I+Graduated+in+Maths+and+Physics;+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29"/>
 </h1>
-<hr>
   <img align="right" alt="dataanalyst" width="290" height="200" src="assets/report-boy.gif">
 <br>
 <div align="left">
