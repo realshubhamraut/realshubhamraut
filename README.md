@@ -32,15 +32,15 @@
     <a href="mailto:contactshubhamraut@gmail.com">
 <h1 align="center"> <img src="assets/wave.gif" height="32px"> 
   </a>
-  <a href="mailto:contactshubhamraut@gmail.com">
+ <!--- <a href="mailto:contactshubhamraut@gmail.com">
     <img src="https://img.shields.io/badge/RESUME-FF0000?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+  </a> -->
     <a href="https://shubhamraut.in" target="_blank">
      <img src="https://img.shields.io/badge/PortFolio-Website-green?style=for-the-badge&logo=About.me&logoColor=green" target="_blank" />
   </a>
-    <a href="https://huggingface.co/shubhamraut">
+<!--    <a href="https://huggingface.co/shubhamraut">
     <img height="28px" width="180px" src="assets/hugging-face.png" alt="hugging-face">
-    </a>
+    </a> -->
      <a href="https://linkedin.com/in/contactshubhamraut" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -49,11 +49,6 @@
     </a>
     <a target="_blank">
     <img src="assets/sunglasses.gif" height="32px" />
-  </a>
-  </a>
-</div>
- <hr/>
- 
 <h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> My Recent Projects - Case Studies <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> </h1>
 
 <div>
@@ -115,39 +110,6 @@ width= "420"
 alt="PG-Finder"
 src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=PG-Finder" />
 </a>
-</div>
-
- <hr/>
- 
-<h1 align="center"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> I can work with <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" height="32px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" height="32px"> </h1>
-
-### Languages, Databases, Libraries: 📗
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=green&)&nbsp;
-![sql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
-![numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
-<img height="20px" width="90px" src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib Logo" width="90px">
-
-
-
-### Tools: ⚙️
-![sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)&nbsp;
-![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
-![notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)&nbsp;
-![ppt](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
-![github](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![looker](https://img.shields.io/badge/Google%20Looker-654FF0?style=flat&logo=google%20analytics&logoColor=white)&nbsp;
-![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)&nbsp;
-![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)&nbsp;
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
-![wp](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
-<img height="18px" width="90px" src="assets/keynote-logo.png" alt="keynote-logo" width="95px">
-<img height="18px" width="90px" src="assets/fcpx-apple-logo.png" alt="fcpx-logo" width="95px">
-![azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)&nbsp;
-<hr/>
 <h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
 
 <p align="center">
