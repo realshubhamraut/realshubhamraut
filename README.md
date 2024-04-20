@@ -9,7 +9,7 @@
 
 
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=NadavIs56&count_private=true&show_icons=true&include_all_commits=true) -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&include_all_commits=true) -->
 <!-- <img width=100% src="https://github.com/realshubhamraut/realshubhamraut/blob/main/assets/github-darkmode.gif#gh-dark-mode-only"/> -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Raut!;I'm+22+years+old;Uncovering+Insights+Through+Magic+of+Data;I+am+an+Analyst+and+Data+Enthusiast;I+Graduated+in+Maths+and+Physics;+Masters+in+Data+Science+and+Finance;Be+Welcome!+:%29"/>
