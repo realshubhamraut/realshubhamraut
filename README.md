@@ -54,12 +54,12 @@
 <div>
 <a
 target="_blank"
-href="https://github.com/realshubhamraut/Twitter-Sentiment-Analysis"
+href="https://github.com/realshubhamraut/Bank-Database-Design.git"
 >
 <img
 width= "420"
-alt="Twitter"
-src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Twitter-Sentiment-Analysis"
+alt="bank-database"
+src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&repo=Bank-Database-Design"
 />
 </a>
 <a
