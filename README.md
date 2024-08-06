@@ -18,9 +18,9 @@
 <br>
 <div align="left">
     
-- 🔭 I’m currently working on **Data Analysis and Engineering Projects**
+- 🔭 I’m currently working on **Data Analytics and AI Projects**
 
-- 💬 Ask me about **Python, Databases...or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
+- 💬 Ask me about **Python, Databases, AI...or anything [here.](https://github.com/realshubhamraut/realshubhamraut/issues)**
       
 - ⚡ Random Thought - **"AI is the new OIL of 21st Century."**
 
@@ -131,21 +131,21 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&langs_count=4&layout=compact&theme=react"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&langs_count=4&layout=compact&theme=react"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&langs_count=4&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
   />
 </picture>
 </p>
 <hr/>
 <div align="center">
-  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px"> Python is Eating my Contributions <img src="https://bestanimations.com/media/snakes/1205341763snake-animation-gif-12.gif" height="28px"> </h2>
+  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px"> Python is Eating my Contributions <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px" height="28px"> </h2>
 <p align="center">
 <picture>
   <source
@@ -166,11 +166,11 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <h3 align="left">Connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 </h3>
 <p align="left">
-<a href="https://twitter.com/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realshubhamraut" height="30" width="40" /></a>
+<a href="https://x.com/ifeelproxim" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="realshubhamraut" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/contactshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contactshubhamraut" height="30" width="40" /></a>
 <a href="https://kaggle.com/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="realshubhamraut" height="30" width="40" /></a>
-<a href="https://medium.com/@realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realshubhamraut" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="realshubhamraut" height="30" width="40" /></a>
+<a href="https://medium.com/@ifeelproxim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realshubhamraut" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="realshubhamraut" height="30" width="40" /></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
