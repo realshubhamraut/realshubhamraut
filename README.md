@@ -168,7 +168,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=realshubhamraut&re
 <p align="left">
 <a href="https://x.com/ifeelproxim" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="realshubhamraut" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/contactshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contactshubhamraut" height="30" width="40" /></a>
-<a href="https://kaggle.com/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="realshubhamraut" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="realshubhamraut" height="30" width="40" /></a> -->
 <a href="https://medium.com/@ifeelproxim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realshubhamraut" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="realshubhamraut" height="30" width="40" /></a>
 <h3 align="center">
