@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="assets/thunder.gif"> GitHub Stats <img src="assets/thunder.gif"></h2>
+<h1 align="center"> <img src="assets/thunder.gif">  GitHub Stats  <img src="assets/thunder.gif"></h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&title=Commits,Issues,PullRequest,Repositories,Experience&theme=dracula&stars=false&row=1&bg_color=green&margin-w=23&margin-h=8&column=-1" />
