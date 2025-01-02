@@ -38,7 +38,7 @@
 
 ## ` Works `
 
-`I am actively trying, testing and learning new tech in AI, this interests me more than anything else.`
+`I am actively trying, testing & learning new tech in AI, this interests me more than anything else.`
 
 | Project                    | Description                                                  | URL                                    |
 | -------------------------- | ------------------------------------------------------------ | -------------------------------------- |
