@@ -33,7 +33,7 @@
 </p>
 <hr/>
 <div align="center">
-  <h2> <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px"> Python is Eating my Contributions <img src="https://1.bp.blogspot.com/-_axdW_hRGyU/VIh8WEtTL9I/AAAAAAAAaow/Pdmfa5viw6g/s1600/Animated%2BSnakes%2B(19).gif" height="28px" height="28px"> </h2>
+
 <p align="center">
 <picture>
   <source
