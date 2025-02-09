@@ -42,8 +42,9 @@
 
 | Project                    | Description                                                  | URL                                    |
 | -------------------------- | ------------------------------------------------------------ | -------------------------------------- |
-| **Olympics 2024 Analysis** | Analysis includes various visualizations of 2024 Olympics    | [github.io](https://github.com/realshubhamraut/olympics2024-analysis/blob/main/analysis.ipynb)        |
+| **SQL SnowFlake Chat** | Chat/Query your data without writing complex SQL queries    | [github.io](https://github.com/realshubhamraut/SQL-Snowflake-chat)        |
 | **Sales Performance Analytics Dashboard** | Interactive dashboard for visualizing and analyzing sales data  | [github.io](https://github.com/realshubhamraut/Sales-Performance-Analytics-Dashboard)        |
+| **Olympics 2024 Analysis** | Analysis includes various visualizations of 2024 Olympics    | [github.io](https://github.com/realshubhamraut/olympics2024-analysis/blob/main/analysis.ipynb)        |
 
 </div>
 
