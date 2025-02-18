@@ -42,9 +42,11 @@
 
 | Project                                    | Description                                                        | URL                                    |
 | --------------------------                 | ------------------------------------------------------------       | -------------------------------------- |
+| **Flight fare Prediction on Azure with WebUI**| Deployed on Azure, access ML model through FastAPI endpoints   | [github.io](https://github.com/realshubhamraut/Flight-Airfare-Prediction-on-Azure-with-WebUI)        |
 | **SQL SnowFlake Chat**                     | Chat/Query your data in natural language no more complex queries   | [github.io](https://github.com/realshubhamraut/SQL-Snowflake-chat)        |
 | **Streamlit Sales Performance Analytics**  | Interactive dashboard for visualizing and analyzing sales data     | [github.io](https://github.com/realshubhamraut/Sales-Performance-Analytics-Dashboard)        |
 | **Olympics 2024 Analysis**                 | Analysis includes various visualizations of 2024 Olympics          | [github.io](https://github.com/realshubhamraut/olympics2024-analysis/blob/main/analysis.ipynb)        |
+
 
 </div>
 
