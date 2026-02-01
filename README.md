@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="assets/thunder.gif">  GitHub Stats  <img src="assets/thunder.gif"></h1>
+<!-- <h1 align="center"> <img src="assets/thunder.gif">  GitHub Stats  <img src="assets/thunder.gif"></h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=realshubhamraut&title=Commits,Issues,PullRequest,Repositories,Experience&theme=dracula&stars=false&row=1&bg_color=green&margin-w=23&margin-h=8&column=-1" />
@@ -31,7 +31,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshubhamraut&langs_count=4&theme=react&layout=compact&size_weight=0&count_weight=1&border_radius=6"
   />
 </picture>
-</p>
+</p> -->
 
 <div align="center">
 
