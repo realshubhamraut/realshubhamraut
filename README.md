@@ -38,7 +38,7 @@
 
 ## ` Works `
 
-`I’m actively exploring, testing & learning, building new AI tech, this excites me more than anything else.`
+`Building AI products and experiments from idea to deployment. I enjoy validating ideas, talking to users, and turning data and intelligence into products that solve real problems.`
 
 | Project                                    | Description                                                        | URL                                    |
 | --------------------------                 | ------------------------------------------------------------       | -------------------------------------- |
