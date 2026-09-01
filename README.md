@@ -83,8 +83,4 @@
 <!-- <a href="https://medium.com/@ifeelproxim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realshubhamraut" height="32" width="42" /></a>
 <!-- <a href="https://linkedin.com/in/contactshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contactshubhamraut" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/u/realshubhamraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="realshubhamraut" height="30" width="40" /></a> -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Building+something+cool+in+AI%3F+🤖;Let's+connect!;Always+open+to+collaborate+%3A)">
-</h3>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
-<hr>
+
