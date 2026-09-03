@@ -42,12 +42,10 @@
 
 | Project                                    | Description                                                        | URL                                    |
 | --------------------------                 | ------------------------------------------------------------       | -------------------------------------- |
-| **Automated Job Screener NLP Engine**| End to End Full stack solution to hire candidates with the help of AI  | <a href="https://github.com/realshubhamraut/Automated-First-Screener-and-AI-Job[...]"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
-| **Advanced Medical Diagnosis System**| Deployed on Azure, build with CI/CD, Flask, Pytorch, Vector Database   | <a href="https://github.com/realshubhamraut/Advanced-Medical-Recommendation-Sys[...]"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
-| **Flight fare Prediction on Azure, WebUI**| Deployed on Azure, access ML model through FastAPI endpoints   | <a href="https://github.com/realshubhamraut/Flight-Airfare-Prediction-on-Azure-wit[...]"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
+| **Advanced Medical Diagnosis System**| Deployed on Azure, build with CI/CD, Flask, Pytorch, Vector Database   | <a href="https://github.com/realshubhamraut/Advanced-Medical-Recommendation-System-with-Flask-on-Azure"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
+| **Flight fare Prediction on Azure, WebUI**| Deployed on Azure, access ML model through FastAPI endpoints   | <a href="https://github.com/realshubhamraut/Flight-Airfare-Prediction-on-Azure-with-WebUI"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
 | **SQL SnowFlake Chat**                     | Chat/Query your data in natural language no more complex queries   | <a href="https://github.com/realshubhamraut/SQL-Snowflake-chat"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
-| **Streamlit Sales Performance Analytics**  | Interactive dashboard for visualizing and analyzing sales data     | <a href="https://github.com/realshubhamraut/Sales-Performance-Analytics-Dashb[...]"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
-| **Olympics 2024 Analysis**                 | Analysis includes various visualizations of 2024 Olympics          | <a href="https://github.com/realshubhamraut/olympics2024-analysis/blob/main/a[...]"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
+| **Olympics 2024 Analysis**                 | Analysis includes various visualizations of 2024 Olympics          | <a href="https://github.com/realshubhamraut/olympics2024-analysis"><img src="https://img.icons8.com/color/96/000000/link--v1.png" width="20" height="20" alt="link"/></a>
 
 
 </div>
