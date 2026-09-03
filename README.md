@@ -42,12 +42,12 @@
 
 | Project                                    | Description                                                        | URL                                    |
 | --------------------------                 | ------------------------------------------------------------       | -------------------------------------- |
-| **Automated Job Screener NLP Engine**| End to End Full stack solution to hire candidates with the help of AI  | <a href="https://github.com/realshubhamraut/Automated-First-Screener-and-AI-Job[...]">↗</a>
-| **Advanced Medical Diagnosis System**| Deployed on Azure, build with CI/CD, Flask, Pytorch, Vector Database   | <a href="https://github.com/realshubhamraut/Advanced-Medical-Recommendation-Sys[...]">↗</a>
-| **Flight fare Prediction on Azure, WebUI**| Deployed on Azure, access ML model through FastAPI endpoints   | <a href="https://github.com/realshubhamraut/Flight-Airfare-Prediction-on-Azure-wit[...]">↗</a>
-| **SQL SnowFlake Chat**                     | Chat/Query your data in natural language no more complex queries   | <a href="https://github.com/realshubhamraut/SQL-Snowflake-chat">↗</a>
-| **Streamlit Sales Performance Analytics**  | Interactive dashboard for visualizing and analyzing sales data     | <a href="https://github.com/realshubhamraut/Sales-Performance-Analytics-Dashb[...]">↗</a>
-| **Olympics 2024 Analysis**                 | Analysis includes various visualizations of 2024 Olympics          | <a href="https://github.com/realshubhamraut/olympics2024-analysis/blob/main/a[...]">↗</a>
+| **Automated Job Screener NLP Engine**| End to End Full stack solution to hire candidates with the help of AI  | <a href="https://github.com/realshubhamraut/Automated-First-Screener-and-AI-Job[...]">🔗</a>
+| **Advanced Medical Diagnosis System**| Deployed on Azure, build with CI/CD, Flask, Pytorch, Vector Database   | <a href="https://github.com/realshubhamraut/Advanced-Medical-Recommendation-Sys[...]">🔗</a>
+| **Flight fare Prediction on Azure, WebUI**| Deployed on Azure, access ML model through FastAPI endpoints   | <a href="https://github.com/realshubhamraut/Flight-Airfare-Prediction-on-Azure-wit[...]">🔗</a>
+| **SQL SnowFlake Chat**                     | Chat/Query your data in natural language no more complex queries   | <a href="https://github.com/realshubhamraut/SQL-Snowflake-chat">🔗</a>
+| **Streamlit Sales Performance Analytics**  | Interactive dashboard for visualizing and analyzing sales data     | <a href="https://github.com/realshubhamraut/Sales-Performance-Analytics-Dashb[...]">🔗</a>
+| **Olympics 2024 Analysis**                 | Analysis includes various visualizations of 2024 Olympics          | <a href="https://github.com/realshubhamraut/olympics2024-analysis/blob/main/a[...]">🔗</a>
 
 
 </div>
